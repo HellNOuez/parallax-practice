@@ -3,9 +3,54 @@
 
     font-family: 'Open Sans', sans-serif;
 }
-.nav{
+.nav-items{
     font-family: 'Open Sans', sans-serif;
 }
-.h1{
-    font-family: 'Lobster Two';
+.jumbo{
+    background-image: url(/imgs/bernardoramonfaur.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+.display-1{
+    font-family: 'Lobster Two';
+    text-align: center;
+}
+.display-6{
+    font-family: 'Lobster Two';
+    text-align: center;
+}
+
+.parallax {
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .parallax-1 {
+    /* The image used */
+    background-image: url(/imgs//katiarolon.jpg);
+
+  }
+  .parallax-2{
+    background-image: url(/imgs/jezaelmelgoza.jpg);
+  }
+  .parallax-3{
+    background-image: url(/imgs/filipgielda.jpg);
+  }
+  .parallax-4{
+    background-image: url(/imgs/lukesouthern.jpg)
+  }
+  .parallax-5{
+    background-image: url(/imgs/nochistlan.jpg);
+  }
+  .display-9{
+    font-size: x-small;
+  }

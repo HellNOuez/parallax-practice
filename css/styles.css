@@ -17,10 +17,12 @@
 .display-1{
     font-family: 'Lobster Two';
     text-align: center;
+    text-decoration:underline white;
 }
 .display-6{
     font-family: 'Lobster Two';
     text-align: center;
+    color:blue
 }
 
 .parallax {
